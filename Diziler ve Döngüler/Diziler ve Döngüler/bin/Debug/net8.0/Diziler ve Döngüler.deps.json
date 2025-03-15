@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Diziler ve Döngüler/1.0.0": {
+        "runtime": {
+          "Diziler ve Döngüler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diziler ve Döngüler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

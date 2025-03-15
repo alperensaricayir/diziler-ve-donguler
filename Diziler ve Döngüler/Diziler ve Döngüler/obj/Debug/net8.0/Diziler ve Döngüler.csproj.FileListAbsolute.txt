@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\bin\Debug\net8.0\Diziler ve Döngüler.exe
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\bin\Debug\net8.0\Diziler ve Döngüler.deps.json
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\bin\Debug\net8.0\Diziler ve Döngüler.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\bin\Debug\net8.0\Diziler ve Döngüler.dll
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\bin\Debug\net8.0\Diziler ve Döngüler.pdb
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\obj\Debug\net8.0\Diziler ve Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\obj\Debug\net8.0\Diziler ve Döngüler.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\obj\Debug\net8.0\Diziler ve Döngüler.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\obj\Debug\net8.0\Diziler ve Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\obj\Debug\net8.0\Diziler ve Döngüler.dll
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\obj\Debug\net8.0\refint\Diziler ve Döngüler.dll
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\obj\Debug\net8.0\Diziler ve Döngüler.pdb
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\obj\Debug\net8.0\Diziler ve Döngüler.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\Diziler ve Döngüler\Diziler ve Döngüler\obj\Debug\net8.0\ref\Diziler ve Döngüler.dll
